@@ -1,6 +1,6 @@
 import turtle
 t = turtle.Turtle()
-
+t.shape("turtle")
 t.lt(45)
 t.fd(141)
 t.goto(0,0)
